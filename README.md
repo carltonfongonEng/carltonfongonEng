@@ -1,10 +1,31 @@
 ##  # Hi there 👋, I'm Carlton!
 
-🎓 Aspiring Computer Science M.S. Student | Passionate about AI, Algorithms & Software Development   
-🌱 Learning: Advanced Data Structures, Machine Learning, and Full-Stack Development
-🌱 Full Stack Developer, Graphic Design,
-🔭 Working on: Personal projects & coding challenges  
-📫 Contact me: [Email](mailto:carltonfongon1@gmail.com) | [LinkedIn](your-linkedin-url)
+🎓 Aspiring Computer Science M.S. Student | Passionate about AI, Algorithms & Software Development  
+### 💻 Full Stack Developer | React • Node.js • MongoDB
+
+---
+
+### 🧠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+### 🚀 Projects
+1. **Portfolio Website** - My personal portfolio showcasing my projects  
+2. **Task Manager App** - A full-stack MERN app for managing tasks  
+3. **Weather App** - Fetches weather data using APIs  
+
+*(More projects coming soon!)*
+
+---
+
+### 📫 Contact Me
+- Email: [Email](mailto:carltonfongon1@gmail.com)  
+- GitHub: [carltonfongonEng](https://github.com/carltonfongonEng)
+ 
 
 👋
 
