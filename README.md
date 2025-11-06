@@ -1,6 +1,6 @@
 ##  # Hi there 👋, I'm Carlton!
 
-🎓 Aspiring Computer Science M.S. Student | Passionate about AI, Algorithms & Software Development  
+🎓 Aspiring Computation Science M.S. Student | Passionate about Algorithms & Software Development  
 ### 💻 Full Stack Developer | React • Node.js • MongoDB
 
 ---
